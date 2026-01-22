@@ -279,14 +279,43 @@ print(me.get_current_status())
 </table>
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solankiboy939&theme=highcontrast)](https://git.io/streak-stats)
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=solankiboy939&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
+</div>
+
+### 📊 Alternative Streak Stats
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak Alternative" />
+</div>
 
 
 ### 📊 Detailed Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=solankiboy939&custom_title=Manohar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 ### 🏆 GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=solankiboy939&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=solankiboy939&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
+</div>
+
+### 🎖️ Alternative Achievement Display
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/followers/solankiboy939?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+<br><sub><b>Followers</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/solankiboy939?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
+<br><sub><b>Total Stars</b></sub>
+</td>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<br><sub><b>Profile Views</b></sub>
+</td>
+</tr>
+</table>
+</div>
 
 ### 📊 Contribution Calendar
 <img src="https://ghchart.rshah.org/5BCDEC/solankiboy939" alt="GitHub Contribution Chart" width="100%"/>
@@ -326,14 +355,14 @@ print(me.get_current_status())
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/�_Looking_To_Collaborate_On-AI_Projects-orange?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/ _Looking_To_Collaborate_On-AI_Projects-orange?style=for-the-badge" />
       <br><br>
       <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30">
       <br>
       <sub><b>Open to innovative partnerships</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/�_Ask_Me_About-Python_|_ML_|_Web_Dev-purple?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/ _Ask_Me_About-Python_|_ML_|_Web_Dev-purple?style=for-the-badge" />
       <br><br>
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30">
       <br>
