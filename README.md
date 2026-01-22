@@ -280,7 +280,6 @@ print(me.get_current_status())
 
 ### 🔥 Contribution Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=solankiboy939&theme=matrix" alt="GitHub">
 
 
 ### 📊 Detailed Activity Graph
