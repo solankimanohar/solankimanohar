@@ -279,57 +279,14 @@ print(me.get_current_status())
 </table>
 
 ### 🔥 Contribution Streak
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solankiboy939&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ### 📊 Detailed Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=solankiboy939&custom_title=Manohar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 ### 🏆 GitHub Achievements
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=solankiboy939&theme=dark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-### 🎖️ Alternative Achievement Display
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/github/followers/solankiboy939?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
-<br><sub><b>Followers</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/github/stars/solankiboy939?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
-<br><sub><b>Total Stars</b></sub>
-</td>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-<br><sub><b>Profile Views</b></sub>
-</td>
-</tr>
-</table>
-</div>
-
-### 📊 Working GitHub Stats
-<div align="center">
-<table>
-<tr>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-</td>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solankiboy939&layout=compact&langs_count=10&theme=dark&hide_border=true"/>
-</td>
-</tr>
-</table>
-</div>
-
-### 🔥 Simple Streak Display
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&theme=dark" alt="GitHub Streak Simple" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=solankiboy939&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
 ### 📊 Contribution Calendar
 <img src="https://ghchart.rshah.org/5BCDEC/solankiboy939" alt="GitHub Contribution Chart" width="100%"/>
