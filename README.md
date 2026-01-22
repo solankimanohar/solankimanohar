@@ -280,12 +280,7 @@ print(me.get_current_status())
 
 ### 🔥 Contribution Streak
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=solankiboy939&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
-</div>
-
-### 📊 Alternative Streak Stats
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak Alternative" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
@@ -294,7 +289,7 @@ print(me.get_current_status())
 
 ### 🏆 GitHub Achievements
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=solankiboy939&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=solankiboy939&theme=dark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ### 🎖️ Alternative Achievement Display
@@ -315,6 +310,25 @@ print(me.get_current_status())
 </td>
 </tr>
 </table>
+</div>
+
+### 📊 Working GitHub Stats
+<div align="center">
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+</td>
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solankiboy939&layout=compact&langs_count=10&theme=dark&hide_border=true"/>
+</td>
+</tr>
+</table>
+</div>
+
+### 🔥 Simple Streak Display
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&theme=dark" alt="GitHub Streak Simple" />
 </div>
 
 ### 📊 Contribution Calendar
