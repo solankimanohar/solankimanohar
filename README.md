@@ -348,7 +348,7 @@ print(me.get_current_status())
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[Edudrag](https://github.com/solankiboy939/Synapta)** | The Adaptive Nervous System for Aircraft Structural Integrity | React, Node.js, AI/ML | 🚀 Active |
+| **[Synapta](https://github.com/solankiboy939/Synapta)** | The Adaptive Nervous System for Aircraft Structural Integrity | React, Node.js, AI/ML | 🚀 Active |
 | **AI Chatbot** | Intelligent conversational AI | Python, TensorFlow, NLP | 🔄 In Progress |
 | **Data Analytics Dashboard** | Real-time data visualization | Python, Streamlit, Plotly | ✅ Completed |
 | **ML Model Deployment** | Cloud-based ML solutions | AWS, Docker, Flask | 🔄 In Progress |
