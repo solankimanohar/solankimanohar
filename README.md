@@ -71,7 +71,7 @@ print(me.get_current_status())
 <td>
 
 **🔭 Current Project**
-- **[Edudrag](https://manohar-solanki.github.io/edudrag/)** - Revolutionary educational platform
+- **[Synapta](https://github.com/solankiboy939/Synapta)** - The Adaptive Nervous System for Aircraft Structural Integrity
 
 **🌱 Learning Journey**
 - Advanced Machine Learning & Deep Learning Architectures
@@ -310,7 +310,7 @@ print(me.get_current_status())
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🔭_Currently_Working_On-Edudrag_Platform-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🔭_Currently_Working_On-Synapta_Platform-blue?style=for-the-badge" />
       <br><br>
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
       <br>
@@ -348,7 +348,7 @@ print(me.get_current_status())
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[Edudrag](https://manohar-solanki.github.io/edudrag/)** | Revolutionary educational platform | React, Node.js, AI/ML | 🚀 Active |
+| **[Edudrag](https://github.com/solankiboy939/Synapta)** | The Adaptive Nervous System for Aircraft Structural Integrity | React, Node.js, AI/ML | 🚀 Active |
 | **AI Chatbot** | Intelligent conversational AI | Python, TensorFlow, NLP | 🔄 In Progress |
 | **Data Analytics Dashboard** | Real-time data visualization | Python, Streamlit, Plotly | ✅ Completed |
 | **ML Model Deployment** | Cloud-based ML solutions | AWS, Docker, Flask | 🔄 In Progress |
