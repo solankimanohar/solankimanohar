@@ -85,7 +85,7 @@ print(me.get_current_status())
 
 **📫 Contact Me**
 - Email: **Solankimanohar2176@gmail.com**
-- Portfolio: **[solankimanohar.netlify.app](https://manoharsolanki.tharurja.com/#home)**
+- Portfolio: **[manoharsolanki.tharurja.com](https://manoharsolanki.tharurja.com/#home)**
 
 **🎵 Fun Facts**
 - My favorite beat is **Algo-rhythm** 🎶
